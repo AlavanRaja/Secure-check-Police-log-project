@@ -1,5 +1,6 @@
-
 # 🚨 SecureCheck: Digital Police Check Post Registry  
+
+![SecureCheck Banner](securecheck-banner.png)
 
 SecureCheck is an advanced digital police check post registry system designed to modernize and secure check post operations through **real-time data analytics**, **centralized logging**, and **predictive insights**.  
 It replaces inefficient manual systems with a robust **SQL-backed architecture** and a **Python-powered Streamlit dashboard**.  
@@ -105,7 +106,5 @@ jupyter notebook data_prep_and_sql_initial.ipynb
 ```bash
 streamlit run app.py
 ```
+ 
 
----
-
-✅ SecureCheck empowers law enforcement with **data-driven decision-making** for safer and smarter policing.  
